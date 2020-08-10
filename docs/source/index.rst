@@ -21,12 +21,13 @@ Features
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :glob:
+   
+   *
 
 
 
 Indices and tables
-------------------
+===================
 
-* :ref:`installation`
-* :ref:`tutorial`
 * :ref:`search`
