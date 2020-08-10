@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Diff file="Content/Items/Weapons/weapons.xml" override="root" cleanup="true">
+    <!--Harpoon-->
+    <replace sel="/Items/Item[@identifier='spear']/Price/@baseprice">60</replace>
+    <!--Explosive Harpoon-->
+    <replace sel="/Items/Item[@identifier='explosivespear']/Price/@baseprice">500</replace>
+    <!--Harpoon Gun-->
+    <replace sel="/Items/Item[@identifier='harpoongun']/Price/Price[@locationtype='outpost']/@multiplier">2.0</replace>
+    <replace sel="/Items/Item[@identifier='harpoongun']/Price/Price[@locationtype='city']/@multiplier">1.5</replace>
+    <replace sel="/Items/Item[@identifier='harpoongun']/Price/Price[@locationtype='research']/@multiplier">1.5</replace>
+    <replace sel="/Items/Item[@identifier='harpoongun']/Price/Price[@locationtype='military']/@multiplier">0.5</replace>
+    <replace sel="/Items/Item[@identifier='harpoongun']/Price/Price[@locationtype='mine']/@multiplier">1.5</replace>
+</Diff>

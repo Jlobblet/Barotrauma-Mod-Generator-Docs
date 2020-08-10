@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Diff file="Content/Items/Misc/misc.xml" override="root" cleanup="true">
+    <replace sel="/Items/Item[@identifier='guitar']/Price/@baseprice">100</replace>
+    <replace sel="/Items/Item[@identifier='guitar']/Price/Price[@locationtype='city']/@multiplier">0.5</replace>
+</Diff>

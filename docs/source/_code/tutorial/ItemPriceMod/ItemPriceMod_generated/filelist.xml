@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Item Price Mod" path="Mods/ItemPriceMod/filelist.xml" corepackage="false" gameversion="0.10.4.0">
+  <Items file="Mods/ItemPriceMod/Content/Items/Weapons/weapons.xml" />
+  <Items file="Mods/ItemPriceMod/Content/Items/Misc/misc.xml" />
+</contentpackage>
