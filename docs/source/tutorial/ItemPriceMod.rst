@@ -3,7 +3,8 @@ Changing the Prices of Items
 
 Here, the price of multiple several items will be changed to demonstrate an example structure for the mod.
 
-The files used are available separately here, and zipped here.
+The files used are available `separately <https://github.com/Jlobblet/Barotrauma-Mod-Generator-Docs/tree/master/docs/source/_code/tutorial/ItemPriceMod/ItemPriceMod>`_ or `zipped <https://github.com/Jlobblet/Barotrauma-Mod-Generator-Docs/blob/master/docs/source/_code/tutorial/ItemPriceMod/ItemPriceMod.zip>`_.
+You can see the output `here <https://github.com/Jlobblet/Barotrauma-Mod-Generator-Docs/tree/master/docs/source/_code/tutorial/ItemPriceMod/ItemPriceMod_generated>`_.
 
 First, we'll need to build the folder for the Mod Generator to use as input.
 Make new files and folders until you have the following:
