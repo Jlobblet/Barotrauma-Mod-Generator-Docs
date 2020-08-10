@@ -27,7 +27,8 @@ Features
 
 
 
-Indices and tables
+Useful Links
 ===================
 
-* :ref:`search`
+* Issue Tracker: https://github.com/Jlobblet/Barotrauma-Mod-Generator/issues
+* GitHub: https://github.com/Jlobblet/Barotrauma-Mod-Generator
