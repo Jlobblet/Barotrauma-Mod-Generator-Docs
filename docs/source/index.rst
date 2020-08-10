@@ -1,10 +1,22 @@
-.. Barotrauma-Mod-Generator-Docs documentation master file, created by
-   sphinx-quickstart on Mon Aug 10 10:54:53 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Barotrauma-Mod-Generator
+=========================
 
-Welcome to Barotrauma-Mod-Generator-Docs's documentation!
-=========================================================
+Barotrauma Mod Generator makes modding Barotrauma easy. Build mods with
+diff files, specifying only what you want to change.
+
+.. image :: _images/readme_example.png
+    :alt: Using a short diff file to update a complex item.
+
+Features
+---------
+
+- Simple syntax: use XML like you already know to create mods.
+- Flexible file format: the Mod Generator copies the file structure you
+  create, meaning there are never any issues with overwritten files.
+- Easy to keep track of changes: only tweak the values you want to, making
+  updating your mod to future versions of Barotrauma easy, and making source
+  control truly viable.
+
 
 .. toctree::
    :maxdepth: 2
@@ -13,8 +25,8 @@ Welcome to Barotrauma-Mod-Generator-Docs's documentation!
 
 
 Indices and tables
-==================
+------------------
 
-* :ref:`genindex`
-* :ref:`modindex`
+* :ref:`installation`
+* :ref:`tutorial`
 * :ref:`search`
