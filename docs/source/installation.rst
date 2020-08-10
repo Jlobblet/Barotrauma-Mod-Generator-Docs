@@ -10,7 +10,7 @@ Installing the Barotrauma Mod Generator is quite easy.
     
     Make sure you download one of the pre-compiled archives, rather than the source code.
 
-   .. image :: _images/installation/downloads.png
+   .. image :: /_images/installation/downloads.png
         :alt: Make sure to download the pre-compiled program.
 
 #. Extract the program into the directory you want to run it.
