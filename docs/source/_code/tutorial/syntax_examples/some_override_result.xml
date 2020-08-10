@@ -1,0 +1,16 @@
+<Items>
+    <Override>
+        <Item name="" identifier="spear" category="Equipment" interactthroughwalls="true" cargocontaineridentifier="metalcrate" tags="mediumitem,harpoonammo" Scale="0.5" impactsoundtag="impact_metal_light">
+            <Price baseprice="100" soldeverywhere="false">
+                ...
+            </Price>
+            ...
+        </Item>
+    </Override>
+    <Item name="" identifier="alienspear" category="Equipment" interactthroughwalls="true" cargocontaineridentifier="metalcrate" tags="mediumitem,harpoonammo" Scale="0.5" impactsoundtag="impact_metal_light">
+        <Price baseprice="500" soldeverywhere="false">
+            ...
+        </Price>
+        ...
+    </Item>
+</Items>

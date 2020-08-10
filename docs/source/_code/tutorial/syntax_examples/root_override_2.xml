@@ -1,0 +1,5 @@
+<Override>
+    <Items>
+        <Item identifier="foobar"/>
+    </Items>
+</Override>

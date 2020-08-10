@@ -1,0 +1,4 @@
+<Diff file="Content/Items/Weapons/weapons.xml" override="some" cleanup="true">
+    <replace sel="/Items/Item[@identifier='spear']/Price/@baseprice" override="true">100</replace>
+    <replace sel="/Items/Item[@identifier='alienspear']/Price/@baseprice">500</replace>
+</Diff>
