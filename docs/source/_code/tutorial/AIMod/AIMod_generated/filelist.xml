@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="AI Mod" path="Mods/AIMod/filelist.xml" corepackage="false" gameversion="0.10.4.0">
+  <Character file="Mods/AIMod/Content/Characters/Mudraptor/Mudraptor.xml" />
+</contentpackage>

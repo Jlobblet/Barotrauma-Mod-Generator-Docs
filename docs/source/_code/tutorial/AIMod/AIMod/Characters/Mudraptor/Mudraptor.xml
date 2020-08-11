@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Diff file="Content/Characters/Mudraptor/Mudraptor.xml" override="root" cleanup="false">
+    <replace sel="//target[@tag='door']/@priority">90</replace>
+    <replace sel="//target[@tag='stronger']/@state">Attack</replace>
+    <remove sel="//target[@tag='turret']"/>
+    <add sel="//ai">
+        <target tag="leucocyte" state="Avoid" priority="50" reactdistance="2000"/>
+    </add>
+</Diff>
