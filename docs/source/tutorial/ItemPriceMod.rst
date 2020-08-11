@@ -66,6 +66,6 @@ Here's our ``weapons.xml`` diff:
 .. literalinclude :: /_code/tutorial/ItemPriceMod/ItemPriceMod/Content/Items/Weapons/weapons.xml
     :language: XML
 
-Running the Mod Generator on the input directory (zipped) will produce the same result as the pre-generated version.
+Running the Mod Generator on the input directory will produce the same result as the pre-generated version.
 
 This concludes the Item Price tutorial.
