@@ -3,7 +3,7 @@ Changing AI Priorities
 
 In this tutorial, the AI priorities of mudraptors will be changed.
 
-The files used are available `separately <https://github.com/Jlobblet/Barotrauma-Mod-Generator-Docs/tree/master/docs/source/_code/tutorial/AIMod/AIMod>`_ or `zipped <https://github.com/Jlobblet/Barotrauma-Mod-Generator-Docs/tree/master/docs/source/_code/tutorial/AIMod.zip>`_.
+The files used are available `separately <https://github.com/Jlobblet/Barotrauma-Mod-Generator-Docs/tree/master/docs/source/_code/tutorial/AIMod/AIMod>`_ or `zipped <https://github.com/Jlobblet/Barotrauma-Mod-Generator-Docs/tree/master/docs/source/_code/tutorial/AIMod/AIMod.zip>`_.
 You can see the output `here <https://github.com/Jlobblet/Barotrauma-Mod-Generator-Docs/tree/master/docs/source/_code/tutorial/AIMod/AIMod_generated>`_.
 
 First, we'll need to build the folder for the Mod Generator to use as input.
