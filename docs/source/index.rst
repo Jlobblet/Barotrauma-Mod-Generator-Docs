@@ -28,7 +28,7 @@ Features
 
 
 Useful Links
-===================
+==============
 
 * Issue Tracker: https://github.com/Jlobblet/Barotrauma-Mod-Generator/issues
 * GitHub: https://github.com/Jlobblet/Barotrauma-Mod-Generator
