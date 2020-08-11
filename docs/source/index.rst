@@ -23,6 +23,8 @@ Features
    :caption: Contents:
    :glob:
    
+   installation.rst
+   usage.rst
    *
 
 
