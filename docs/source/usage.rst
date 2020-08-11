@@ -118,14 +118,3 @@ Some example XPaths that might be useful in the context of Barotrauma:
     /Items/Item[@identifier='harmonica']/Price/@baseprice
     //@ambientlightcolor
     /Items/Item[starts-with(@identifier, 'op_vendingmachine')]
-
-
-Tutorials
------------
-
-.. toctree ::
-    
-    tutorial/ItemPriceMod.rst
-    tutorial/AIMod.rst
-    tutorial/Harpoons.rst
-    tutorial/AmbientLight.rst
